@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "price": 990,
+    "score": 8.8,
+    "genres": ["Action", "Adventure", "Drama"],
+    "franchise": "The Lord of the Rings"
+  },
+  {
+    "id": "tt0241527",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "price": 990,
+    "score": 7.6,
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "franchise": "Harry Potter"
+  },
+
+  {
+    "id": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "price": 3250,
+    "score": 8.9,
+    "genres": ["Action", "Adventure", "Drama"],
+    "franchise": "The Lord of the Rings"
+  },
+  {
+    "id": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "price": 2990,
+    "score": 8.7,
+    "genres": ["Action", "Adventure", "Drama"],
+    "franchise": "The Lord of the Rings"
+  },
+  {
+    "id": "tt0137523",
+    "title": "Fight Club",
+    "year": 1999,
+    "price": 1300,
+    "score": 8.8,
+    "genres": ["Drama"],
+    "franchise": null
+  },
+  {
+    "id": "tt0295297",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "price": 1990,
+    "score": 7.4,
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "franchise": "Harry Potter"
+  }
+]
